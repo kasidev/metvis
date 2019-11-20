@@ -1,0 +1,1 @@
+Wind display for single runway airfields (EGLC, LIRQ)
